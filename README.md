@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding games ..
 - 🌱 I’m currently learning 4th year CSE ...
 - 💞️ I’m looking to collaborate on anything ...
-- 📫 How to reach me 8123996998
+- 📫 How to reach me aastikar18@gmail.com
 
 <!---
 Anirudhastikar/Anirudhastikar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
