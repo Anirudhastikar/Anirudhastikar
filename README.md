@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Anirudhastikar
-- 👀 I’m interested in coding games ..
-- 🌱 I’m currently learning 4th year CSE ...
+- 👀 I’m interested in coding, games ..
 - 💞️ I’m looking to collaborate on anything ...
 - 📫 How to reach me aastikar18@gmail.com
 
